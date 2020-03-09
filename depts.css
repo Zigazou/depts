@@ -1,0 +1,15 @@
+body {
+    --col1: #340068;
+    --col2: #ff6978;
+    --col3: #fffcf9;
+    --col4: #b1ede8;
+    --col5: #6d435a;
+}
+
+article {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: grid;
+}
+
