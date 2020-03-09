@@ -56,10 +56,10 @@
   </defs>
   <style
      id="style6"
-     type="text/css">.land{fill:#86aae0;stroke:#fff;stroke-width:.6}</style>
+     type="text/css">.land{fill:#a83c47;stroke:#fff;stroke-width:.6}</style>
   <path
      inkscape:connector-curvature="0"
      id="path821"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Republica Minor 2.0';-inkscape-font-specification:'Republica Minor 2.0, ';letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#86aae0;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Republica Minor 2.0';-inkscape-font-specification:'Republica Minor 2.0, ';letter-spacing:0px;word-spacing:0px;opacity:1;vector-effect:none;fill:#a83c47;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 69.112932,97.425377 H 31.396746 V 74.110155 h 37.716186 z m -25.97596,-55.80922 q 11.768586,-6.034195 11.768586,-10.000333 0,-3.994467 -1.105966,-5.60925 -1.105962,-1.643117 -4.73579,-1.643117 -2.552222,0 -3.714903,1.586455 -1.134321,1.558128 -1.134321,5.2693 v 6.82742 H 7.09391 L 7.0655432,25.63829 Q 7.09391,13.229944 12.368495,8.1306244 14.892361,5.5809641 19.599794,4.3627938 24.307229,3.1446223 30.999725,3.1446223 h 39.247522 q 6.267124,0 10.634261,1.2181715 4.367139,1.2181703 7.061152,3.8811504 2.694013,2.6629778 3.941767,6.9690698 1.247753,4.277762 1.219397,10.425276 0,19.887344 -12.023808,24.67504 -11.995451,4.787696 -11.995451,11.076855 v 7.67731 H 31.368389 V 57.565696 q 0,-9.915345 11.768583,-15.949539 z" />
 </svg>
